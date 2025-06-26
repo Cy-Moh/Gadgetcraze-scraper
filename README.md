@@ -127,3 +127,7 @@ If you’d like to collaborate or improve this scraper, feel free to reach out. 
 Cheers!  
 **Simon 'CyMoh' Bbaale**
 
+**Data Science, Artificial Intelligence and Machine Learning Enthusiast**
+
+Email — cmontunechi@gmail.com
+
