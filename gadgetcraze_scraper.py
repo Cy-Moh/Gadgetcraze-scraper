@@ -7,12 +7,12 @@ import time
 # --- Configuration settings ---
 BASE_URL = "https://www.gadgetcraze.ug"
 HEADERS = {
-    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'     # Mimocs a real browser
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'     # Mimics a real browser
 }
 OUTPUT_FILE = "gadgetcraze_all_products.xlsx"   # Excel output file name
 
 
-# --- Step 1: Get all category links from the maain /shop page ----
+# --- Step 1: Get all category links from the main /shop page ----
 def get_all_category_links():
     url = f"{BASE_URL}/shop"
     print(f"🌐 Fetching all categories from {url}")
