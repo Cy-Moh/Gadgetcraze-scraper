@@ -122,8 +122,8 @@ def job():
 # Run immediately once
 scrape_all()
 
-# Schedule every Monday at 9:00 AM
-schedule.every().monday.at("09:00").do(job)
+# Schedule every Monday at 10:00 AM
+schedule.every().monday.at("10:00").do(job)
 
 print("⏰ Scheduler is running. Waiting for next run...")
 
