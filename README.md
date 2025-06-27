@@ -103,7 +103,7 @@ The scraper automatically fetches all categories from the main shop page with th
 gadgetcraze_scraper.py     # Main scraper script
 gadgetcraze_products.xlsx  # Output Excel file (auto-generated)
 README.md                  # This file
-requirements.txt           # Python dependencies needed to run the sccraper
+requirements.txt           # Python dependencies needed to run the scraper
 ```
 
 ---
